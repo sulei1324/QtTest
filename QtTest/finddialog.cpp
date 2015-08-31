@@ -1,6 +1,7 @@
 #include "stdafx.h"
 #include <QtGui>
 #include "finddialog.h"
+#include "iostream"
 
 FindDialog::FindDialog(QWidget *parent)
         : QDialog(parent)
@@ -65,3 +66,9 @@ void FindDialog::enableFindButton(const QString &text)
 {
         findButton->setEnabled(!text.isEmpty());
 } 
+
+/*int main(int argc, char *argv[]){
+    int a[] = {1, 2};
+    std::cout<<a[-1];
+
+}*/

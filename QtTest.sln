@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtTest", "QtTest\QtTest.vcproj", "{FACC0EB5-CBB1-4803-8C81-CFA35B01FEBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FACC0EB5-CBB1-4803-8C81-CFA35B01FEBE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FACC0EB5-CBB1-4803-8C81-CFA35B01FEBE}.Debug|Win32.Build.0 = Debug|Win32
+		{FACC0EB5-CBB1-4803-8C81-CFA35B01FEBE}.Release|Win32.ActiveCfg = Release|Win32
+		{FACC0EB5-CBB1-4803-8C81-CFA35B01FEBE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

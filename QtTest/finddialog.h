@@ -1,6 +1,9 @@
+#include "stdafx.h"
 #ifndef FINDDIALOG_H
 #define FINDDIALOG_H
-#include <QtGui/QDialog>
+#include <QtGui>
+#include <QApplication>
+#include <QtCore>
 
 class QCheckBox;
 class QLabel;
